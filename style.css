@@ -1,0 +1,7 @@
+body{
+    background-color: rgb(145, 20, 20);
+}
+header ul{
+    display: flex;
+    list-style: none;
+}
